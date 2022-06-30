@@ -51,7 +51,7 @@ Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
 
 Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
 
-Membuat Tombol Home pada bagian login pada bagian views\user\login.php tembahkan tombol untuk kembali ketampilan awal.
+Membuat Tombol Home pada bagian login pada bagian views\user\login.php tembahkan tombol untuk kembali ketampilan awal.<br>
 ![img](img/ss8.png)
 
 Tampilan
